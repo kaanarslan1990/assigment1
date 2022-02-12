@@ -1,0 +1,18 @@
+{
+  "name": "assigment1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "using async, await, axios and array functions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "kaanarslan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
